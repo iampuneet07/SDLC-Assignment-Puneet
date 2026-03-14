@@ -1,4 +1,3 @@
-# SDLC-Assignment-Puneet
 # SDLC Assignment – Smart-Attend Mobile App
 
 **Course:** SDLC & DevOps Fundamentals
